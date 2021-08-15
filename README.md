@@ -1,6 +1,6 @@
 # RagnarokGameMechanics
 
-This repository includes the findings of my research and inquiries into the game mechanics of Gravity Co's MMORP Ragnarok Online.
+This repository includes the findings of my research and inquiries into the game mechanics of Gravity Co's MMORPG Ragnarok Online.
 
 Game mechanics in this context refers to only the gameplay logic that has been implemented in their server software; if you're interested in learning more about the client software you might want to check out the [RagnarokFileFormats](https://github.com/Duckwhale/RagnarokFileFormats) repository instead.
 
