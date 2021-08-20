@@ -24,9 +24,9 @@ Please open an issue or contact me on Discord (RDW#9823) if you can contribute i
 
 This section serves mostly as a guideline for high-level topics that I want to eventually have included:
 
-* Server Update Loop
-* Movement
-* AI
+* [Server Update Loop](ServerUpdateLoop.md): Details on how the simulation of the world is updated
+* [Movement](Movement.md): How actors move in the game world
+* [Creature AI](CreatureAI.md): Describes the rules governing the behaviour of creatures (and NPCs)
 * Physical Combat
 * Statistics
 * Casting
