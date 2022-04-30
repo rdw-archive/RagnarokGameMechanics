@@ -1,3 +1,9 @@
+**This repository has migrated! It is now archived and will no longer see updates.** My work continues here: [Ragnarok Research Lab](https://github.com/RagnarokResearchLab/)
+
+To read the latest results of my research into Ragnarok Online's game mechanics, visit [https://ragnarokresearchlab.github.io/game-mechanics/](https://ragnarokresearchlab.github.io/game-mechanics/).
+
+---
+
 # RagnarokGameMechanics
 
 This repository includes the findings of my research and inquiries into the game mechanics of Gravity Co's MMORPG Ragnarok Online.
